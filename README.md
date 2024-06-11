@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @abhinavnandekar27
-- 👀 I’m interested in solving real world problems using tech.
-- 🌱 I’m currently learning Development and AI.
-- 💞️ I’m looking to collaborate on Software development projects.
-- ⚡ Fun fact: Creative and out of the box thinker.
-
-<!---
-abhinavnandekar27/abhinavnandekar27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  👋 Hi, I’m Abhinav Nandekar
+-  👀 I’m passionate about solving real-world problems using technology.
+-  🌱 Currently enhancing my development skills and business strategy through various competitions and projects.
+-  💞️ Looking to collaborate on software development projects and case study competitions.
+-  ⚡ Fun fact: I am a creative and out-of-the-box thinker.
+-  🌐 Proficient in C++, Angular, HTML, CSS, JavaScript, Typescript, Bootstrap, Tailwind and SQL.
+-  🎓 National finalist in multiple hackathons and competitions.
