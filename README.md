@@ -7,7 +7,11 @@ Passionate about solving real-world problems using technology and learning IT In
 ## 🛠️ **Technical Expertise**
 
 ### **Networking**
-- Switching, TCP/IP Protocols, Routing (OSPF, EIGRP), VLANs, DNS, DHCP, Network Security (Firewall, VPN), Software-Defined Networking (SDN)  
+- Switching, TCP/IP Protocols, Routing (OSPF, EIGRP), VLANs, DNS, DHCP, Network Security (Firewall, VPN), Software-Defined Networking (SDN)
+
+### **Tools**
+- **Networking and Security:** Wireshark, Nagios, pfSense, Squid Proxy, Iptables
+- **ID/PS and SIEM:** Snort, AlienVault OSSIM
 
 ### **Linux**
 - CentOS, Shell Scripting and Automation, Apache Web Server, Firewalld, Postfix Mail Server, vsFTP, NFS, Samba  
@@ -15,16 +19,8 @@ Passionate about solving real-world problems using technology and learning IT In
 ### **Windows**
 - Active Directory, Windows Deployment Server, IP Address Management (IPAM), IIS Server, Group Policy Management  
 
-### **Tools**
-- **Networking and Security:** Wireshark, Nagios, pfSense, Squid Proxy, Iptables
-- **ID/PS and SIEM:** Snort, AlienVault OSSIM
-
 ### **DevOps Tools**
-- **Version Control:** Git, GitHub  
-- **Containerization:** Docker
-- **CI/CD:** Jenkins (beginner level)
-
----
+- Git, GitHub, Docker, Jenkins, Kubernetes
 
 ## 🌐 **Programming & Web Development**
 - **Languages:** C++, Python, SQL  
@@ -34,9 +30,10 @@ Passionate about solving real-world problems using technology and learning IT In
 
 ## 🎓 **Achievements**
 🏆 **National Finalist** in multiple prestigious hackathons and competitions:  
-- **National Finalist of India EVolve Innovation Challenge 2024 (Top 20)**  
-- **Asian Paints Alchemy 2024 (National Top 37)**  
-- **Regional Finalist of New India Vibrant  Hackathon 2023 organized by Government  of Gujarat**  
+- [**National Finalist of India EVolve Innovation Challenge 2024 (Top 20)**](https://www.linkedin.com/posts/abhinavnandekar_innovationchallenge-sustainablemobility-lastmiledelivery-activity-7240411383488487424-XiAV?utm_source=share&utm_medium=member_desktop)
+- [**Asian Paints Alchemy 2024 (National Top 37)**](https://www.linkedin.com/posts/abhinavnandekar_asianpaints-asianpaintsalchemy-unstop-activity-7175765266268614656-fn0h?utm_source=share&utm_medium=member_desktop)
+- **Regional Finalist of New India Vibrant Hackathon 2023 organized by Government of Gujarat**
+
 
 ---
 
