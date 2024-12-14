@@ -1,26 +1,26 @@
 # 👋 Hi, I’m **Abhinav Nandekar**
 
-Passionate about solving real-world problems using technology and learning IT Infrastructure & Management, DevOps methodologies, and the CyberSecurity.
+I’m a passionate technology enthusiast with a focus on cybersecurity, networking, and DevOps. I enjoy securing networks, applications, and systems while leveraging modern tools to build efficient and reliable solutions. I thrive on solving challenges, automating processes, and creating secure, scalable systems that support organizations in today’s fast-paced, digital world.
 
 ---
 
 ## 🛠️ **Technical Expertise**
 
+### **DevOps Tools**
+- Git, GitHub, Docker, Jenkins, Kubernetes, Ansible, Terraform, Amazon Web Services (AWS), Prometheus, SonarQube
+
 ### **Networking**
-- Switching, TCP/IP Protocols, Routing (OSPF, EIGRP), VLANs, DNS, DHCP, Network Security (Firewall, VPN), Software-Defined Networking (SDN)
+- Switching, TCP/IP Protocols, Routing, VLANs, DNS, DHCP, Network Security (Firewall, VPN), Software-Defined Networking (SDN)
 
 ### **Tools**
-- **Networking and Security:** Wireshark, Nagios, pfSense, Squid Proxy, Iptables
+- **Networking and Security:** Wireshark, Nagios, pfSense, Squid Proxy, Iptables, Grafana
 - **ID/PS and SIEM:** Snort, AlienVault OSSIM
 
 ### **Linux**
-- CentOS, Shell Scripting and Automation, Apache Web Server, Firewalld, Postfix Mail Server, vsFTP, NFS, Samba  
+- Shell Scripting and Automation, Apache Web Server, Nginx
 
 ### **Windows**
 - Active Directory, Windows Deployment Server, IP Address Management (IPAM), IIS Server, Group Policy Management  
-
-### **DevOps Tools**
-- Git, GitHub, Docker, Jenkins, Kubernetes
 
 ## 🌐 **Programming & Web Development**
 - **Languages:** C++, Python, SQL  
@@ -30,10 +30,9 @@ Passionate about solving real-world problems using technology and learning IT In
 
 ## 🎓 **Achievements**
 🏆 **National Finalist** in multiple prestigious hackathons and competitions:  
-- [**National Finalist of India EVolve Innovation Challenge 2024 (Top 20)**](https://www.linkedin.com/posts/abhinavnandekar_innovationchallenge-sustainablemobility-lastmiledelivery-activity-7240411383488487424-XiAV?utm_source=share&utm_medium=member_desktop)
-- [**Asian Paints Alchemy 2024 (National Top 37)**](https://www.linkedin.com/posts/abhinavnandekar_asianpaints-asianpaintsalchemy-unstop-activity-7175765266268614656-fn0h?utm_source=share&utm_medium=member_desktop)
-- **Regional Finalist of New India Vibrant Hackathon 2023 organized by Government of Gujarat**
-
+- [**National Finalist of India EVolve Innovation Challenge 2024 (Top 20)**](https://www.linkedin.com/in/abhinavnandekar/details/honors/1733488415137/single-media-viewer/ profileId=ACoAADj7F3oBCTUHdTepdMHyBwDqTjx0yYDunhA)
+- [**Asian Paints Alchemy 2024 (National Top 37)**](https://www.linkedin.com/in/abhinavnandekar/details/honors/1732302136354/single-media-viewer/?profileId=ACoAADj7F3oBCTUHdTepdMHyBwDqTjx0yYDunhA)
+- [**Regional Finalist of New India Vibrant Hackathon 2023 organized by Government of Gujarat**] (https://www.linkedin.com/in/abhinavnandekar/details/honors/1732302279046/single-media-viewer/?profileId=ACoAADj7F3oBCTUHdTepdMHyBwDqTjx0yYDunhA)
 
 ---
 
