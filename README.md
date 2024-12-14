@@ -28,11 +28,11 @@ I’m a passionate technology enthusiast with a focus on cybersecurity, networki
 
 ---
 
-## 🎓 **Achievements**
-🏆 **National Finalist** in multiple prestigious hackathons and competitions:  
-- [**National Finalist of India EVolve Innovation Challenge 2024 (Top 20)**](https://www.linkedin.com/in/abhinavnandekar/details/honors/1733488415137/single-media-viewer/ profileId=ACoAADj7F3oBCTUHdTepdMHyBwDqTjx0yYDunhA)
+## 🎓 Achievements
+🏆 **National Finalist** in multiple prestigious hackathons and competitions:
+- [**National Finalist of India EVolve Innovation Challenge 2024 (Top 20)**](https://www.linkedin.com/in/abhinavnandekar/details/honors/1733488415137/single-media-viewer/?profileId=ACoAADj7F3oBCTUHdTepdMHyBwDqTjx0yYDunhA)
 - [**Asian Paints Alchemy 2024 (National Top 37)**](https://www.linkedin.com/in/abhinavnandekar/details/honors/1732302136354/single-media-viewer/?profileId=ACoAADj7F3oBCTUHdTepdMHyBwDqTjx0yYDunhA)
-- [**Regional Finalist of New India Vibrant Hackathon 2023 organized by Government of Gujarat**] (https://www.linkedin.com/in/abhinavnandekar/details/honors/1732302279046/single-media-viewer/?profileId=ACoAADj7F3oBCTUHdTepdMHyBwDqTjx0yYDunhA)
+- [**Regional Finalist of New India Vibrant Hackathon 2023 organized by Government of Gujarat**](https://www.linkedin.com/in/abhinavnandekar/details/honors/1732302279046/single-media-viewer/?profileId=ACoAADj7F3oBCTUHdTepdMHyBwDqTjx0yYDunhA)
 
 ---
 
